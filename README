@@ -1,8 +1,9 @@
 The Ocean and Sea Ice Satellite Application Facility (OSI SAF) mantains daily ice products: Concentration, Edge and Type.
-I want to download all the historical data for the European Artic (66-90N between 25W-60E) to calculate climatology info for the region.
+I want to download all the historical data for the European Artic (66-90N between 25W-60E) to calculate statisics/climatological info for the region.
 With this I will set search regions for selecting the "CTD" data for the ISA reference database (ISA-PTs-RD).
 Each product has its own directory (subfolder structure is YEAR/MONTH). I select the netcdf version.
-The download of the files is done in matlab. Data is selected geographically and stored. The file is deleted by the code afterwards.
+The download of the files is done in matlab. 
+Data is selected geographically and stored.
 
 
 About the Reference database
